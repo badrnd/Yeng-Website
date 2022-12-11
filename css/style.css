@@ -52,10 +52,10 @@ body a{
 }
 
 .top-nav ul li a:hover{
-	color:#2ABF5E;
+	color:#061d0e;
 }
 .top-nav ul li.active a{
-	color:#d7ff0f;
+	color:#424e04;
 	
 }
 .logo_img{
@@ -83,7 +83,7 @@ nav a {
 }
 nav a:hover{
 	text-decoration:none;
-	color:#00A2C1;
+	color:#64949e;
 }
 nav a#pull {
 	display: none;
@@ -100,7 +100,7 @@ nav a#pull {
 	display: flex;
 	align-items: center;
 	height: 270px;
-	background: #1F958E;
+	background: #11645f;
 	width: 100%;
 	margin-left: 2%;
 	margin-right: 2%;
@@ -307,7 +307,7 @@ nav a#pull {
 .gallery-head span {
 	height: 1px;
 	width: 27%;
-	background: #21A957;
+	background: #61a17b;
 	display: inline-block;
 	margin-top: 23px;
 }
